@@ -26,6 +26,7 @@ _To be completed_
 
 * **Griffin Wiebel** - *Backend development* 
 * **Matthew Hollenbeck** - *Interface development*
+* **Phung Tran** - *UI design and assist development process*
 
 ## License
 
